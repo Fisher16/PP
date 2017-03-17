@@ -1,0 +1,9 @@
+300101	Kiepski	Ferdynand	P1-Z1	1996
+300102	Skoda	Felicja	P1-Z1	1997
+207	Erazmus	Klaudiusz	P1-Z1	1996
+300103	Wspanialy	Napoleon	P1-Z2	1996
+300104	Jankowska	Janina	P1-Z2	1989
+300105	Tubis	Tele	P1-Z2	1995
+206	Sokrates	Franciszek	P1-Z3	1995
+300106	Usmiechniety	Mileniusz	P1-Z3	1997
+300107	Dziwadiusz	Tycjan	P1-Z3	1996
